@@ -1,0 +1,38 @@
+#branding h1{
+    color:#fff; 
+}
+
+#header{
+    background-color: rgb(16 40 78);
+}
+
+
+div.breadcrumbs{
+    background-color: rgb(48 202 160);
+    color:#333;
+}
+
+.module h2, .module caption, .inline-group h2{
+    background-color: rgb(48 202 160);
+}
+
+.module caption {
+    background-color: rgb(48 202 160);
+}
+
+#nav-sidebar{
+    margin-top:5%;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+    background-color: rgb(16 40 78);
+}
+
+a:link,
+a:visited{
+    color:#333;
+}
+
+div.breadcrumbs a{
+    color:#333;
+}
